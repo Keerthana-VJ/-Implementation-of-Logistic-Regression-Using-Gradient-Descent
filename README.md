@@ -108,26 +108,32 @@ print("Accuracy:",accuracy)
 ```
 print(y_pred)
 ```
+
 ## Output:
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/ede1b953-b104-4fe6-a9a6-574042e475ca" />
 
 ```
 print(Y)
 ```
+
 ## Output:
 <img width="515" alt="image" src="https://github.com/user-attachments/assets/58b482ed-4452-4819-b883-591dcf2fb041" />
+
 ```
 xnew= np.array([[0,87,0,95,0,2,78,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print(y_prednew)
 ```
+
 ## Output:
 <img width="36" alt="image" src="https://github.com/user-attachments/assets/674822e3-ce93-41ea-9574-66081acdc483" />
+
 ```
 xnew= np.array([[0,0,0,0,0,2,8,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print(y_prednew)
 ```
+
 ## Output:
 <img width="38" alt="image" src="https://github.com/user-attachments/assets/d0caa356-ffa0-443f-bbb8-acccebc1bc7a" />
 
